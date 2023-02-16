@@ -12,12 +12,12 @@ let products = [
   {
     title: "Design Tool",
     decs: "",
-    image: "../img/nla001.jpg",
+    image: "../img/NLA001.jpg",
   },
   {
     title: "Nail Brush",
     decs: "",
-    image: "../img/nailbrush0018.jpg",
+    image: "../img/NailBrush0018.jpg",
   },
   {
     title: "Nail Brush - Imperial",

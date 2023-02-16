@@ -2,32 +2,32 @@ let products = [
     {
         title: "Manicure File",
         decs: "100 - 100",
-        image: "../img/hinail100100w.png",
+        image: "../img/HINAIL100100W.png",
     },
     {
         title: "Manicure File",
         decs: "100 - 180",
-        image: "../img/hinail100180w.png",
+        image: "../img/HINAIL100180W.png",
     },
     {
         title: "Manicure File",
         decs: "150 - 150",
-        image: "../img/hinail150150w.png",
+        image: "../img/HINAIL150150W.png",
     },
     {
         title: "Manicure File",
         decs: "180 - 180",
-        image: "../img/hinail180180w.png",
+        image: "../img/HINAIL180180W.png",
     },
     {
         title: "Plastic Form",
         decs: "",
-        image: "../img/gm001w.png",
+        image: "../img/GM001W.png",
     },
     {
         title: "Plastic Form",
         decs: "",
-        image: "../img/gm002w.png",
+        image: "../img/GM002W.png",
     },
     {
         title: "Biscuit Polish Buffer",

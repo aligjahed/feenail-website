@@ -17,7 +17,7 @@ let products = [
     {
         title: "Nail Master Dm-208",
         decs: "",
-        image: "../img/NailMaster-dm-208.jpg",
+        image: "../img/nailmaster-dm-208.jpg",
     },
     {
         title: "Strong 209",
@@ -27,7 +27,7 @@ let products = [
     {
         title: "Nail Master zs-601",
         decs: "",
-        image: "../img/NailMaster-zs-601.jpg",
+        image: "../img/nailmaster-zs-601.jpg",
     },
     {
         title: "UV-LED Sun 5",
