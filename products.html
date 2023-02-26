@@ -174,14 +174,14 @@
         <div class="card-body bg-primary d-flex justify-content-between">
           <div class="d-flex align-items-center">
             <img
-              class="mx-lg-2"
+              class="mx-lg-2 mainCardIcon"
               style="width: 50px"
               src="https://img.icons8.com/ios/100/EFEFEF/manicure.png"
             />
-            <h2 class="text-white m-0 fs-5">Manicure</h2>
+            <h2 class="text-white m-0 fs-5 mainCardTitle">Manicure</h2>
           </div>
           <button
-            class="btn btn-outline-light"
+            class="btn btn-outline-light collapseBtn"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#manicureCollapse"
@@ -204,14 +204,14 @@
         <div class="card-body bg-primary d-flex justify-content-between">
           <div class="d-flex align-items-center">
             <img
-              class="mx-lg-2"
+              class="mx-lg-2 mainCardIcon"
               style="width: 50px"
               src="https://img.icons8.com/ios/100/EFEFEF/face-powder.png"
             />
-            <h2 class="text-white m-0 fs-5">Pedicure</h2>
+            <h2 class="text-white m-0 fs-5 mainCardTitle">Pedicure</h2>
           </div>
           <button
-            class="btn btn-outline-light"
+            class="btn btn-outline-light collapseBtn"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#pedicureCollapse"
@@ -234,14 +234,14 @@
         <div class="card-body bg-primary d-flex justify-content-between">
           <div class="d-flex align-items-center">
             <img
-              class="mx-lg-2"
+              class="mx-lg-2 mainCardIcon"
               style="width: 50px"
               src="https://img.icons8.com/ios/100/EFEFEF/audio-cable--v1.png"
             />
-            <h2 class="text-white m-0 fs-5">Electronic Devices</h2>
+            <h2 class="text-white m-0 fs-5 mainCardTitle">Electronic Devices</h2>
           </div>
           <button
-            class="btn btn-outline-light"
+            class="btn btn-outline-light collapseBtn"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#eDevicesCollapse"
@@ -263,14 +263,14 @@
         <div class="card-body bg-primary d-flex justify-content-between">
           <div class="d-flex align-items-center">
             <img
-              class="mx-lg-2"
+              class="mx-lg-2 mainCardIcon"
               style="width: 50px"
               src="https://img.icons8.com/ios/100/EFEFEF/nails.png"
             />
-            <h2 class="text-white m-0 fs-5">Nail bits</h2>
+            <h2 class="text-white m-0 fs-5 mainCardTitle">Nail bits</h2>
           </div>
           <button
-            class="btn btn-outline-light"
+            class="btn btn-outline-light collapseBtn"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#nailBitsCollapse"
@@ -293,14 +293,14 @@
         <div class="card-body bg-primary d-flex justify-content-between">
           <div class="d-flex align-items-center">
             <img
-              class="mx-lg-2"
+              class="mx-lg-2 mainCardIcon"
               style="width: 50px"
               src="https://img.icons8.com/ios/100/EFEFEF/cosmetic-brush.png"
             />
-            <h2 class="text-white m-0 fs-5">Brushes</h2>
+            <h2 class="text-white m-0 fs-5 mainCardTitle">Brushes</h2>
           </div>
           <button
-            class="btn btn-outline-light"
+            class="btn btn-outline-light collapseBtn"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#brushesCollapse"
@@ -327,7 +327,7 @@
       <div class="row pt-5">
         <div class="col-lg-4 col-md-12">
           <div class="d-flex align-items-center mb-3">
-            <img src="./img/MainLogo.png" />
+            <img src="./img/FeeLogo47.png" style="width: 100px; height: 100px"/>
             <h1 class="display-5 text-capitalize font-italic text-white m-0">
               <span class="text-primary">Fee</span>Nail
             </h1>
@@ -390,6 +390,22 @@
       @media (max-width: 750px) {
         #cardImg {
           height: 50% !important;
+        }
+      }
+      
+      @media (max-width: 585px) {
+        .mainCardTitle {
+          font-size: 15px !important;
+        }
+
+        .mainCardIcon {
+          width: 40px !important;
+          margin-right: 10px;
+        }
+        
+        .collapseBtn {
+          width: 30% !important;
+          font-size: 10px !important;
         }
       }
     </style>

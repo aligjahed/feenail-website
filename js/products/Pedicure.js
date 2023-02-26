@@ -1,5 +1,35 @@
 let products = [
   {
+    title: "Calus Blade",
+    decs: "",
+    image: "../img/PediRazorW.jpg",
+  },
+  {
+    title: "Calus Blade",
+    decs: "",
+    image: "../img/PediRazorFlatW.jpg",
+  },
+  {
+    title: "Calus Remover small",
+    decs: "",
+    image: "../img/00001W.jpg",
+  },
+  {
+    title: "Curved Calus Remover",
+    decs: "",
+    image: "../img/51NZx+qBPWLW.jpg",
+  },
+  {
+    title: "Flat Calus Remover",
+    decs: "",
+    image: "../img/B1167145588W.jpg",
+  },
+  {
+    title: "360 Calus Remover",
+    decs: "",
+    image: "../img/RandePa360W.jpg",
+  },
+  {
     title: "ZEN Sugar Scrub",
     decs: "Lavander",
     image: "../img/SS001W.png",
@@ -78,36 +108,6 @@ let products = [
     title: "ZEN Body Butter",
     decs: "",
     image: "../img/BB007W.jpg",
-  },
-  {
-    title: "Calus Blade",
-    decs: "",
-    image: "../img/PediRazorW.jpg",
-  },
-  {
-    title: "Calus Blade",
-    decs: "",
-    image: "../img/PediRazorFlatW.jpg",
-  },
-  {
-    title: "Calus Remover small",
-    decs: "",
-    image: "../img/00001W.jpg",
-  },
-  {
-    title: "Curved Calus Remover",
-    decs: "",
-    image: "../img/51NZx+qBPWLW.jpg",
-  },
-  {
-    title: "Flat Calus Remover",
-    decs: "",
-    image: "../img/B1167145588W.jpg",
-  },
-  {
-    title: "360 Calus Remover",
-    decs: "",
-    image: "../img/RandePa360W.jpg",
   },
 ];
 

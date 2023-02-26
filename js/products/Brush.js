@@ -1,20 +1,5 @@
 let products = [
   {
-    title: "Diamond Tool",
-    decs: "",
-    image: "../img/DiamondTool.jpg",
-  },
-  {
-    title: "Dotting Tool",
-    decs: "",
-    image: "../img/dotting01.jpg",
-  },
-  {
-    title: "Design Tool",
-    decs: "",
-    image: "../img/NLA001.jpg",
-  },
-  {
     title: "Nail Brush",
     decs: "",
     image: "../img/NailBrush0018.jpg",
@@ -30,9 +15,9 @@ let products = [
     image: "../img/brush-pixel.jpg",
   },
   {
-    title: "Nail Brush - Ez FLow 00",
+    title: "Nail Brush - Ez FLow",
     decs: "",
-    image: "../img/brush-ezflow.jpg",
+    image: "../img/Ezflow-brush.jpg",
   },
   {
     title: "Nail Brush - Piexl Prience",
@@ -45,14 +30,14 @@ let products = [
     image: "../img/brush-heat.jpg",
   },
   {
+    title: "Nail Brush - Kolinsky",
+    decs: "",
+    image: "../img/Kolinsky-brush.jpg",
+  },
+  {
     title: "Nail Brush - Tetis",
     decs: "",
     image: "../img/brush-tetis.jpg",
-  },
-  {
-    title: "Nail Brush - DK13R ROUBLOFF 2",
-    decs: "",
-    image: "../img/brush-robluf.jpg",
   },
   {
     title: "Nail Brush - Salon",
@@ -60,9 +45,24 @@ let products = [
     image: "../img/brush-salon.jpg",
   },
   {
-    title: "Nail Brush - DK13R ROUBLOFF 1/5",
+    title: "Nail Brush - ROUBLOFF",
     decs: "",
-    image: "../img/brush-robluf-2.jpg",
+    image: "../img/Robluff-brush.jpg",
+  },
+  {
+    title: "Diamond Tool",
+    decs: "",
+    image: "../img/DiamondTool.jpg",
+  },
+  {
+    title: "Dotting Tool",
+    decs: "",
+    image: "../img/dotting01.jpg",
+  },
+  {
+    title: "Design Tool",
+    decs: "",
+    image: "../img/NLA001.jpg",
   },
 ];
 

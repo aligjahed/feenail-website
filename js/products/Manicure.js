@@ -1,45 +1,5 @@
 let products = [
     {
-        title: "Manicure File",
-        decs: "100 - 100",
-        image: "../img/HINAIL100100W.png",
-    },
-    {
-        title: "Manicure File",
-        decs: "100 - 180",
-        image: "../img/HINAIL100180W.png",
-    },
-    {
-        title: "Manicure File",
-        decs: "150 - 150",
-        image: "../img/HINAIL150150W.png",
-    },
-    {
-        title: "Manicure File",
-        decs: "180 - 180",
-        image: "../img/HINAIL180180W.png",
-    },
-    {
-        title: "Plastic Form",
-        decs: "",
-        image: "../img/GM001W.png",
-    },
-    {
-        title: "Plastic Form",
-        decs: "",
-        image: "../img/GM002W.png",
-    },
-    {
-        title: "Biscuit Polish Buffer",
-        decs: "",
-        image: "../img/BiscuitPoilish.jpg",
-    },
-    {
-        title: "Kolikol Oil",
-        decs: "",
-        image: "../img/KotikolOil.jpg",
-    },
-    {
         title: "Cuticle Nipper 151",
         decs: "Length: 115mm, Contains grip, with packaging",
         image: "../img/151-0W.jpg",
@@ -113,6 +73,46 @@ let products = [
         title: "Cuticle Pusher 331",
         decs: "With packaging",
         image: "../img/331-0W.jpg",
+    },
+    {
+        title: "Manicure File",
+        decs: "100 - 100",
+        image: "../img/HINAIL100100W.png",
+    },
+    {
+        title: "Manicure File",
+        decs: "100 - 180",
+        image: "../img/HINAIL100180W.png",
+    },
+    {
+        title: "Manicure File",
+        decs: "150 - 150",
+        image: "../img/HINAIL150150W.png",
+    },
+    {
+        title: "Manicure File",
+        decs: "180 - 180",
+        image: "../img/HINAIL180180W.png",
+    },
+    {
+        title: "Plastic Form",
+        decs: "",
+        image: "../img/GM001W.png",
+    },
+    {
+        title: "Plastic Form",
+        decs: "",
+        image: "../img/GM002W.png",
+    },
+    {
+        title: "Biscuit Polish Buffer",
+        decs: "",
+        image: "../img/BiscuitPoilish.jpg",
+    },
+    {
+        title: "Kolikol Oil",
+        decs: "",
+        image: "../img/KotikolOil.jpg",
     },
     {
         title: "Wooden Cuticle Pusher",
